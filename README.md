@@ -1,2 +1,4 @@
-# Meetings
-Linux Accra User Group meetings. See [meetings tracker](../../issues)
+# Our ToDos
+- Linux Accra User Group meetings.
+- General plannings, etc
+- Open an [issue](../../issues)
